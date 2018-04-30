@@ -1,0 +1,22 @@
+[Variables]
+
+; CPU 0
+HWiNFO-CPU0-SensorId=0xf0000300
+HWiNFO-CPU0-SensorInstance=0x0
+HWiNFO-CPU0-Usage=0x700000d
+
+; CPU 0 DTS
+HWiNFO-CPU0-DTS-SensorId=0xf0000501
+HWiNFO-CPU0-DTS-SensorInstance=0x0
+HWiNFO-CPU0-DTS-CoreMax=0x1000000
+
+; Motherboard
+HWiNFO-MOBO-SensorId=0xf001889a
+HWiNFO-MOBO-SensorInstance=0x1
+HWiNFO-MOBO-CPU-Fan=0x3000000
+
+; GPU 0
+HWiNFO-GPU0-SensorId=0xe0002000
+HWiNFO-GPU0-SensorInstance=0x0
+HWiNFO-GPU0-Usage=0x7000000
+HWiNFO-GPU0-Temp=0x1000000
